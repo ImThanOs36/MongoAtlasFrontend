@@ -10,7 +10,7 @@ button.addEventListener("click", async () => {
     }))
     const data = await response.json();
     console.log(data);
-    div.innerHTML=data.json();
+    div.innerHTML=data;
 
     
 })
