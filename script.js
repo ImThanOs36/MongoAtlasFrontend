@@ -12,6 +12,6 @@ button.addEventListener("click", async () => {
     const data = responseData.name; 
     console.log(data);
     data.forEach(element => {
-        div.innerHTML += `<ol>${element.name}</ol>`; 
+        div.innerHTML += `<li>${element.name}</li>`; 
     });
 });
