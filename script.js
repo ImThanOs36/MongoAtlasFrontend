@@ -30,5 +30,5 @@ button2.addEventListener("click", async () => {
     const responseData = await response.json();
     const data = responseData.name; 
     console.log(data);
-     div.innerHTML = `<li>${element.name}</li>`; 
+     div.innerHTML = `<li>${data}</li>`; 
 });
