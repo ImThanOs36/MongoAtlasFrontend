@@ -1,0 +1,21 @@
+{
+  "name": "MongoAtlasFrontend",
+  "version": "1.0.0",
+  "description": "",
+  "proxy":"https://mongo-atlas0.vercel.app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImThanOs36/MongoAtlasFrontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImThanOs36/MongoAtlasFrontend/issues"
+  },
+  "homepage": "https://github.com/ImThanOs36/MongoAtlasFrontend#readme"
+}
